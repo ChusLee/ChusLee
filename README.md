@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👾 ChusLee
 
-<!--
-**ChusLee/ChusLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi rincón técnico: proyectos, pruebas y cacharreos varios relacionados con seguridad y desarrollo.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚩 Repositorios destacados
+
+- 🧩 [HackTheBox](https://github.com/ChusLee/Hack-The-Box_CTF)  
+  Notas, scripts y documentación de las máquinas que voy resolviendo.
+
+---
+
+## 🧠 ¿Qué podrás encontrar aquí?
+
+- 📚 Documentación y apuntes de aprendizaje.
+- 🛠️ Proyectos y utilidades relacionadas con ciberseguridad.
+- 🔗 Enlaces a otros repositorios y recursos interesantes.
+
+---
+
+## 💬 Contacto
+
+Si algo te resulta útil o quieres comentar mejoras, siéntete libre de abrir un issue o una pull request.
