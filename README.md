@@ -58,14 +58,6 @@ My goal is to build a portfolio that reflects real offensive security thinking.
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChusLee&show_icons=true&theme=tokyonight" height="165">
-</p>
-
----
-
 ## 🟩 Hack The Box Progress  
 
 <p align="center">
